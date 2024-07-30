@@ -1,0 +1,12 @@
+C:\Users\anish.bhosale\source\repos\AccountManager\AccountManager\bin\Debug\net8.0\AccountManager.deps.json
+C:\Users\anish.bhosale\source\repos\AccountManager\AccountManager\bin\Debug\net8.0\AccountManager.dll
+C:\Users\anish.bhosale\source\repos\AccountManager\AccountManager\bin\Debug\net8.0\AccountManager.pdb
+C:\Users\anish.bhosale\source\repos\AccountManager\AccountManager\obj\Debug\net8.0\AccountManager.csproj.AssemblyReference.cache
+C:\Users\anish.bhosale\source\repos\AccountManager\AccountManager\obj\Debug\net8.0\AccountManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anish.bhosale\source\repos\AccountManager\AccountManager\obj\Debug\net8.0\AccountManager.AssemblyInfoInputs.cache
+C:\Users\anish.bhosale\source\repos\AccountManager\AccountManager\obj\Debug\net8.0\AccountManager.AssemblyInfo.cs
+C:\Users\anish.bhosale\source\repos\AccountManager\AccountManager\obj\Debug\net8.0\AccountManager.csproj.CoreCompileInputs.cache
+C:\Users\anish.bhosale\source\repos\AccountManager\AccountManager\obj\Debug\net8.0\AccountManager.dll
+C:\Users\anish.bhosale\source\repos\AccountManager\AccountManager\obj\Debug\net8.0\refint\AccountManager.dll
+C:\Users\anish.bhosale\source\repos\AccountManager\AccountManager\obj\Debug\net8.0\AccountManager.pdb
+C:\Users\anish.bhosale\source\repos\AccountManager\AccountManager\obj\Debug\net8.0\ref\AccountManager.dll

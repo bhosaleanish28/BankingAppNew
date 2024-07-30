@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cuWaRvYATPA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anish.bhosale\\source\\repos\\AccountManager\\AccountManager\\AccountManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anish.bhosale\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
